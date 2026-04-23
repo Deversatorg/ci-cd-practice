@@ -2,4 +2,4 @@ def foo():
     pass
 
 def foo(str='foo'):
-    print(str)
+    print('master branch conflict string: ' + str)
